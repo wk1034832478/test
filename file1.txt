@@ -2,8 +2,3 @@ haha
 
 
 haha lala
-<<<<<<< Updated upstream
-haha2
-=======
-haha
->>>>>>> Stashed changes
